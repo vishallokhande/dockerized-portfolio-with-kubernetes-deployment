@@ -1,5 +1,5 @@
-# My-portfolio
-# My Portfolio – Cloud-Native Website Project
+# Cloud-Native Portfolio Website with CI/CD Automation & Kubernetes Deployment
+# Cloud-Native Portfolio Website with CI/CD Automation & Kubernetes Deploymento – Cloud-Native Website Project
 
 Welcome! This is my personal portfolio website, deployed using modern DevOps tools and cloud technology:
 - **Git & GitHub**
